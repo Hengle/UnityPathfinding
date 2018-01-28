@@ -1,4 +1,4 @@
-# UnityPathfinding
+# *Unity Pathfinding*
 *[Not yet ready]*
 >An implementation of some graph algorithms in unity.
 >In progress: Dijkstra Algorithm
