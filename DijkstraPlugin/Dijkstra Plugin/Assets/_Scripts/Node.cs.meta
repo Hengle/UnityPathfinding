@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 11b36e2c4481f8a4ba6b3b26cf7618fb
+timeCreated: 1517143721
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Default: {fileID: 2100000, guid: f917e097b8e7cc94880fe9c7c5b6b940, type: 2}
+  - Higlight: {fileID: 2100000, guid: 6c91229cd9d6daa46946d76ebaf31089, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
